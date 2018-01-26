@@ -1,8 +1,8 @@
 .idea
-.exercise
 /Exercise Files/
 /css/bootstrap.css
 /css/bootstrap-reboot.css
 /css/bootstrap-grid.css
 /js/bootstrap.js
 /js/bootstrap.bundle.js
+/js/tether.min.js
